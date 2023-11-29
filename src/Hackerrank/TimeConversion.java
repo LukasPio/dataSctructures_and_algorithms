@@ -1,3 +1,5 @@
+package Hackerrank;
+
 public class TimeConversion {
 
     public static String formatHourMinuteSecond(int hourMinuteOrSecond) {

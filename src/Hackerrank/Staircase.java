@@ -1,3 +1,5 @@
+package Hackerrank;
+
 public class Staircase {
     public static void main(String[] args) {
         int stairHeight = 6;

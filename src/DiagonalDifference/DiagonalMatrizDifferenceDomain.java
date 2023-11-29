@@ -1,4 +1,4 @@
-package DiagonalMatrizDifference;
+package DiagonalDifference;
 
 import java.util.List;
 

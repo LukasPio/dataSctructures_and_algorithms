@@ -1,6 +1,8 @@
+package Hackerrank;
+
 import java.util.List;
 
-public class NegativePositiveNullPercentageInArray {
+public class PlusMinus {
     static void plusMinus (List<Integer> array) {
         double negativePercent = 0, positivePercent = 0, nullPercent = 0;
 
